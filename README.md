@@ -6,6 +6,9 @@
 - 📖  Currently learning: JavaScript
 - 😄  Pronouns: He/His
 
+![](https://komarev.com/ghpvc/?username=RakaYuda&color=121212)
+
+
 
 <!--**Languages and Tools:** -->
 
